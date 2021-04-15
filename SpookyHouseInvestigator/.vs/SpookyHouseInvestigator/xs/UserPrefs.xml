@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{26CF64B2-A238-D6F7-B9C9-EFA0D3708EEB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerBattleController.cs">
+    <Files>
+      <File FileName="Assets/Script/RoomChange.cs" Line="16" Column="5" />
+      <File FileName="Assets/Script/SpookyGameController.cs" Line="38" Column="33" />
+      <File FileName="Assets/PlayerBattleController.cs" Line="32" Column="1" />
+      <File FileName="Assets/EnemyBattleController.cs" Line="31" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpookyHouseInvestigator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True" />
+              <Node name="PlayerBattleController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3ddc9a7-92f9-43bc-aaa7-1caaf8f394ce" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
