@@ -7,17 +7,11 @@ using UnityEngine.UI;
 public class SpookyGameController : MonoBehaviour
 {
 
-    public float actionA;
-    public float test;
 
-    public float playerHealth;
-    public float enemyHealth;
+    public int playerHealth;
 
-    public float playerStrength;
-    public float critDamage;
-
-    public Text playerhealthbar;
-    public Text enemyhealthbar;
+    public int playerStrength;
+    public int critDamage;
 
     //"scenes"
     public GameObject outside;
@@ -29,8 +23,6 @@ public class SpookyGameController : MonoBehaviour
 
     void Start()
     {
-        playerHealth = 100;
-        enemyHealth = 100;
 
         outside.SetActive(true);
         floor1.SetActive(false);
@@ -40,8 +32,7 @@ public class SpookyGameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        playerhealthbar.text = playerHealth.ToString();
-        enemyhealthbar.text = enemyHealth.ToString();
+ 
     }
 
     //Scenes
