@@ -52,20 +52,11 @@
     <UnityVersion>2020.1.3f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Script/RoomChange.cs" />
-    <Compile Include="Assets/Script/Inventory.cs" />
-    <Compile Include="Assets/Script/room.cs" />
-    <Compile Include="Assets/Script/Drawer.cs" />
-    <Compile Include="Assets/Script/SceneSwichter.cs" />
-    <Compile Include="Assets/Script/Door.cs" />
-    <Compile Include="Assets/Script/Movement.cs" />
-    <Compile Include="Assets/Script/GiveItem.cs" />
-    <Compile Include="Assets/Script/GameController.cs" />
-    <Compile Include="Assets/Script/SpookyGameController.cs" />
-    <Compile Include="Assets/Script/PlayerController.cs" />
-    <Compile Include="Assets/Script/CameraMover.cs" />
-    <Compile Include="Assets/Script/CameraController.cs" />
-    <Compile Include="Assets/Script/UpdatedBattleController.cs" />
+    <Compile Include="Assets/Tim&apos;s/RoomChange.cs" />
+    <Compile Include="Assets/Tim&apos;s/room.cs" />
+    <Compile Include="Assets/Tim&apos;s/SpookyGameController.cs" />
+    <Compile Include="Assets/Tim&apos;s/UpdatedBattleController.cs" />
+    <Compile Include="Assets/Tim&apos;s/PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
